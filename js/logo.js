@@ -7,7 +7,7 @@ document.addEventListener("DOMContentLoaded", function() {
         {transform: 'translateY(-120%)', opacity: 1 }
 
     ], {
-        duration: 15000,
+        duration: 30000,
         iterations: Infinity,
         direction: "alternate",
         easing: 'linear'
@@ -19,7 +19,7 @@ document.addEventListener("DOMContentLoaded", function() {
         { transform: 'translateY(200%)', opacity: 1 },
         {transform: 'translateY(-120%)', opacity: 1 }
     ], {
-        duration: 15000,
+        duration: 30000,
         iterations: Infinity,
         direction: "alternate",
         easing: 'linear'
@@ -30,7 +30,7 @@ document.addEventListener("DOMContentLoaded", function() {
         { transform: 'translateY(0px)', opacity: 1 },
         { transform: 'translateY(320%)', opacity: 1 }
     ], {
-        duration: 15000,
+        duration: 30000,
         iterations: Infinity,
         direction: "alternate",
         easing: 'linear'

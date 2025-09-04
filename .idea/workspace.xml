@@ -4,13 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="47d5a210-42a1-442c-9a90-c6f3aa57637a" name="Changes" comment="-Animations for CSS, HTML, JS logos&#10;-Animated little rocket&#10;-Started and re-formatted 'about me'&#10;-cleaned up &amp; reformated code">
-      <change beforePath="$PROJECT_DIR$/IMG_3194.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/IMG_3194.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/csslogo.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/csslogo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/htmllogo.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/htmllogo.png" afterDir="false" />
+    <list default="true" id="47d5a210-42a1-442c-9a90-c6f3aa57637a" name="Changes" comment="-Changed Location of images to clean it up&#10;-(shouldve) refactored all code to reflect change">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jslogo.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/jslogo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rocket.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/rocket.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/logo.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/logo.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +65,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\onevi\WebstormProjects\Portfolio\images" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -82,7 +85,7 @@
       <option name="presentableId" value="Default" />
       <updated>1756923024619</updated>
       <workItem from="1756923026517" duration="18130000" />
-      <workItem from="1756956825505" duration="6298000" />
+      <workItem from="1756956825505" duration="11461000" />
     </task>
     <task id="LOCAL-00001" summary="adding to repository">
       <option name="closed" value="true" />
@@ -108,7 +111,15 @@
       <option name="project" value="LOCAL" />
       <updated>1756962931039</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="-Changed Location of images to clean it up&#10;-(shouldve) refactored all code to reflect change">
+      <option name="closed" value="true" />
+      <created>1756963231227</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1756963231227</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,6 +128,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="adding to repository" />
     <MESSAGE value="-Animations for CSS, HTML, JS logos&#10;-Animated little rocket&#10;-Started and re-formatted 'about me'&#10;-cleaned up &amp; reformated code" />
-    <option name="LAST_COMMIT_MESSAGE" value="-Animations for CSS, HTML, JS logos&#10;-Animated little rocket&#10;-Started and re-formatted 'about me'&#10;-cleaned up &amp; reformated code" />
+    <MESSAGE value="-Changed Location of images to clean it up&#10;-(shouldve) refactored all code to reflect change" />
+    <option name="LAST_COMMIT_MESSAGE" value="-Changed Location of images to clean it up&#10;-(shouldve) refactored all code to reflect change" />
   </component>
 </project>

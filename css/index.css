@@ -59,6 +59,7 @@ body{
 .text{
     font-family: 'Inter', sans-serif;
     color:white;
+    text-shadow: 0 1px 3px rgba(0, 0, 0, 0.7);
 }
 
 .box{
@@ -127,20 +128,39 @@ body{
     font-size: 250%;
     position: absolute;
     top: 5%;
-    left: 5%;
+    left: 3%;
 }
 #under{
     position:absolute;
     top: 13%;
-    left: 5%;
+    left: 3%;
+    text-shadow: 0 1px 3px rgba(0, 0, 0, 0.7);
 }
 #h_2{
     position:absolute;
     top: 17%;
-    left: 5%;
+    left: 3%;
+    text-shadow: 0 1px 3px rgba(0, 0, 0, 0.7);
 }
 #main_text{
+    padding-right: 2px;
     position:absolute;
     top: 24%;
-    left: 5%;
+    left: 3%;
+    text-shadow: 0 5px 3px rgba(0, 0, 0, 0.7);
+
+}
+#main_text_lower{
+    position:absolute;
+    top: 68%;
+    left: 3%;
+    text-shadow: 0 5px 3px rgba(0, 0, 0, 0.7);
+}
+#skills{
+    padding-right: 2px;
+    position: absolute;
+    top: 45%;
+    font-weight: 600;
+    text-shadow: 0 5px 3px rgba(0, 0, 0, 0.7);
+    letter-spacing: 1px;
 }
