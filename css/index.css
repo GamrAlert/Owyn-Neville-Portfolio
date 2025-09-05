@@ -9,6 +9,7 @@ a{
 }
 body{
     overflow-x: hidden;
+    overflow-y: hidden;
     position: relative;
 }
 #rocket{
