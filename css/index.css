@@ -9,7 +9,7 @@ a{
 }
 body{
     overflow-x: hidden;
-    overflow-y: hidden;
+
     position: relative;
 }
 #rocket{
@@ -103,7 +103,8 @@ body{
     border-radius: 5%;
     position: absolute;
     display: flex;
-
+    gap: 1.5rem;
+    flex-direction: column;
     width: 35%;
     height: 35%;
     background-color: #040455;
@@ -124,6 +125,8 @@ body{
     left: 10%;
     display: flex;
     word-wrap: break-word;
+    gap: 1vw;
+    flex-direction: column;
 }
 .img_fit{
     width: 100%;
@@ -133,46 +136,47 @@ body{
 }
 #header{
     font-size: 2.5vw;
-    position: absolute;
-    top: 5%;
+    position: relative;
+
     left: 3%;
 }
 #under{
     font-size: 1vw;
-    position:absolute;
-    top: 13%;
+    position:relative;
+
     left: 3%;
     text-shadow: 0 1px 3px rgba(0, 0, 0, 0.7);
 }
 #h_2{
     font-size: 1vw;
-    position:absolute;
-    top: 17%;
+    position:relative;
+
     left: 3%;
     text-shadow: 0 1px 3px rgba(0, 0, 0, 0.7);
 }
 #main_text{
     font-size: .85vw;
     padding-right: 2px;
-    position:absolute;
-    top: 24%;
+    position:relative;
+
     left: 3%;
     text-shadow: 0 5px 3px rgba(0, 0, 0, 0.7);
 
 }
 #main_text_lower{
     font-size: .85vw;
-    position:absolute;
-    top: 68%;
+    position:relative;
+
     left: 3%;
     text-shadow: 0 5px 3px rgba(0, 0, 0, 0.7);
 }
 #skills{
-    font-size: .85vw;
+    font-size: .75vw;
     padding-right: 2px;
-    position: absolute;
-    top: 47%;
+    position: relative;
+
     font-weight: 600;
     text-shadow: 0 5px 3px rgba(0, 0, 0, 0.7);
     letter-spacing: 1px;
+    line-height: 1.4;
 }

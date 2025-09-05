@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="47d5a210-42a1-442c-9a90-c6f3aa57637a" name="Changes" comment="-Added buttons to 'resume', 'contact me', and 'projects'&#10;-changed way that the website handles mobile screens&#10;-bought domain, should auto update when pushed">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    <list default="true" id="47d5a210-42a1-442c-9a90-c6f3aa57637a" name="Changes" comment="- attemped fix for overflow-y">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/index.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +98,7 @@
       <option name="presentableId" value="Default" />
       <updated>1756923024619</updated>
       <workItem from="1756923026517" duration="18130000" />
-      <workItem from="1756956825505" duration="16160000" />
+      <workItem from="1756956825505" duration="18366000" />
     </task>
     <task id="LOCAL-00001" summary="adding to repository">
       <option name="closed" value="true" />
@@ -147,7 +148,15 @@
       <option name="project" value="LOCAL" />
       <updated>1757034901719</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="- attemped fix for overflow-y">
+      <option name="closed" value="true" />
+      <created>1757035500245</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1757035500245</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -159,6 +168,7 @@
     <MESSAGE value="-Changed Location of images to clean it up&#10;-(shouldve) refactored all code to reflect change" />
     <MESSAGE value="-Updated About Me section&#10;-Slowed down logos moving" />
     <MESSAGE value="-Added buttons to 'resume', 'contact me', and 'projects'&#10;-changed way that the website handles mobile screens&#10;-bought domain, should auto update when pushed" />
-    <option name="LAST_COMMIT_MESSAGE" value="-Added buttons to 'resume', 'contact me', and 'projects'&#10;-changed way that the website handles mobile screens&#10;-bought domain, should auto update when pushed" />
+    <MESSAGE value="- attemped fix for overflow-y" />
+    <option name="LAST_COMMIT_MESSAGE" value="- attemped fix for overflow-y" />
   </component>
 </project>
