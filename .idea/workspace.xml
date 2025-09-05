@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="47d5a210-42a1-442c-9a90-c6f3aa57637a" name="Changes" comment="-Changed Location of images to clean it up&#10;-(shouldve) refactored all code to reflect change">
+    <list default="true" id="47d5a210-42a1-442c-9a90-c6f3aa57637a" name="Changes" comment="-Updated About Me section&#10;-Slowed down logos moving">
+      <change afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/logo.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/logo.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,9 +51,13 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "JavaScript Debug.127.0.0.1:3000.executor": "Debug",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "git-widget-placeholder": "master",
+    "javascript.nodejs.core.library.configured.version": "22.19.0",
+    "javascript.nodejs.core.library.typings.version": "22.18.1",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -67,8 +71,19 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\onevi\WebstormProjects\Portfolio" />
       <recent name="C:\Users\onevi\WebstormProjects\Portfolio\images" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="127.0.0.1:3000" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://127.0.0.1:3000/">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.127.0.0.1:3000" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -85,7 +100,7 @@
       <option name="presentableId" value="Default" />
       <updated>1756923024619</updated>
       <workItem from="1756923026517" duration="18130000" />
-      <workItem from="1756956825505" duration="11461000" />
+      <workItem from="1756956825505" duration="15789000" />
     </task>
     <task id="LOCAL-00001" summary="adding to repository">
       <option name="closed" value="true" />
@@ -119,7 +134,15 @@
       <option name="project" value="LOCAL" />
       <updated>1756963231227</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="-Updated About Me section&#10;-Slowed down logos moving">
+      <option name="closed" value="true" />
+      <created>1757025044305</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1757025044305</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -129,6 +152,7 @@
     <MESSAGE value="adding to repository" />
     <MESSAGE value="-Animations for CSS, HTML, JS logos&#10;-Animated little rocket&#10;-Started and re-formatted 'about me'&#10;-cleaned up &amp; reformated code" />
     <MESSAGE value="-Changed Location of images to clean it up&#10;-(shouldve) refactored all code to reflect change" />
-    <option name="LAST_COMMIT_MESSAGE" value="-Changed Location of images to clean it up&#10;-(shouldve) refactored all code to reflect change" />
+    <MESSAGE value="-Updated About Me section&#10;-Slowed down logos moving" />
+    <option name="LAST_COMMIT_MESSAGE" value="-Updated About Me section&#10;-Slowed down logos moving" />
   </component>
 </project>

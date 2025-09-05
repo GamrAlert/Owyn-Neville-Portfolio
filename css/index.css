@@ -3,6 +3,10 @@
 html{
     scroll-behavior: smooth;
 }
+a{
+    color:white;
+    text-decoration:none;
+}
 body{
     overflow-x: hidden;
     position: relative;
@@ -51,7 +55,7 @@ body{
     line-height: 1;
     padding-top: 1vw;
     position: relative;
-    font-size: 180%;
+    font-size: 1.8vw;
     align-self: center;
     padding-right: 25%;
     flex-shrink: 0;
@@ -74,7 +78,7 @@ body{
 
 }
 .box_child{
-    font-size: 180%;
+    font-size: 1.8vw;
     text-align: center;
     width:auto;
     height:20%;
@@ -113,10 +117,12 @@ body{
     display: flex;
 }
 #me_desc{
+    width: 36%;
     position: absolute;
     top: 10%;
     left: 10%;
     display: flex;
+    word-wrap: break-word;
 }
 .img_fit{
     width: 100%;
@@ -125,24 +131,27 @@ body{
     border-radius: 5%;
 }
 #header{
-    font-size: 250%;
+    font-size: 2.5vw;
     position: absolute;
     top: 5%;
     left: 3%;
 }
 #under{
+    font-size: 1vw;
     position:absolute;
     top: 13%;
     left: 3%;
     text-shadow: 0 1px 3px rgba(0, 0, 0, 0.7);
 }
 #h_2{
+    font-size: 1vw;
     position:absolute;
     top: 17%;
     left: 3%;
     text-shadow: 0 1px 3px rgba(0, 0, 0, 0.7);
 }
 #main_text{
+    font-size: .85vw;
     padding-right: 2px;
     position:absolute;
     top: 24%;
@@ -151,15 +160,17 @@ body{
 
 }
 #main_text_lower{
+    font-size: .85vw;
     position:absolute;
     top: 68%;
     left: 3%;
     text-shadow: 0 5px 3px rgba(0, 0, 0, 0.7);
 }
 #skills{
+    font-size: .85vw;
     padding-right: 2px;
     position: absolute;
-    top: 45%;
+    top: 47%;
     font-weight: 600;
     text-shadow: 0 5px 3px rgba(0, 0, 0, 0.7);
     letter-spacing: 1px;
