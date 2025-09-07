@@ -188,5 +188,6 @@ body{
     #me_desc{
         width: 40vw;
         height: 30vh;
+        font-size: 150%;
     }
 }
