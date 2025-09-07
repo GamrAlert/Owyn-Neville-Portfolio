@@ -121,8 +121,8 @@ body{
 #me_desc{
     width: 40vw;
     position: absolute;
-    top: 10vw;
-    left: 10vw;
+    top: 10%;
+    left: 10%;
     display: flex;
     word-wrap: break-word;
     gap: 1vw;
