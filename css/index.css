@@ -187,7 +187,41 @@ body{
     }
     #me_desc{
         width: 40vw;
-        height: 30vh;
+        height: 50vh;
         font-size: 150%;
+    }
+    #skills{
+        gap: 1rem;
+        font-size: 2vw;
+        word-wrap: break-word;
+    }
+    #under{
+        font-size: 2vw;
+    }
+    #h_2{
+        font-size: 2vw;
+    }
+    #main_text{
+        letter-spacing: 1px;
+        font-size: 2vw;
+        word-wrap: break-all;
+    }
+}
+@media (min-width: 500px) and (max-width: 1025px){
+    #me_picture{
+
+        height: 35vh;
+    }
+    #me_desc{
+        width: 45vw;
+        height: 35vh;
+    }
+    #skills{
+        font-size: 1.25vw;
+        word-wrap: break-word;
+    }
+    #main_text{
+        font-size: 1.25vw;
+        word-wrap: break-all;
     }
 }
