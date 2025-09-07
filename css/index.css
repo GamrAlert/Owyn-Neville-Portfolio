@@ -186,6 +186,7 @@ body{
         height: 20vh;
     }
     #me_desc{
-        height: 20vh;
+        width: 40vw;
+        height: 30vh;
     }
 }
