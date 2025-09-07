@@ -10,6 +10,7 @@ a{
 body{
     overflow-x: hidden;
     position: relative;
+    max-width: 100%;
 }
 #rocket{
     width: 7%;
@@ -118,10 +119,10 @@ body{
     display: flex;
 }
 #me_desc{
-    width: 36%;
+    width: 40vw;
     position: absolute;
-    top: 10%;
-    left: 10%;
+    top: 10vw;
+    left: 10vw;
     display: flex;
     word-wrap: break-word;
     gap: 1vw;

@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="47d5a210-42a1-442c-9a90-c6f3aa57637a" name="Changes" comment="-changed height from 100vW --&gt; 200vh">
+    <list default="true" id="47d5a210-42a1-442c-9a90-c6f3aa57637a" name="Changes" comment="- height should scale better on mobile phones">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +99,7 @@
       <option name="presentableId" value="Default" />
       <updated>1756923024619</updated>
       <workItem from="1756923026517" duration="18130000" />
-      <workItem from="1756956825505" duration="20780000" />
+      <workItem from="1756956825505" duration="21412000" />
     </task>
     <task id="LOCAL-00001" summary="adding to repository">
       <option name="closed" value="true" />
@@ -172,7 +173,15 @@
       <option name="project" value="LOCAL" />
       <updated>1757080930730</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="- height should scale better on mobile phones">
+      <option name="closed" value="true" />
+      <created>1757275830533</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1757275830533</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -187,6 +196,7 @@
     <MESSAGE value="- attemped fix for overflow-y" />
     <MESSAGE value="-fixed overflow thing &#10;-different scaling method&#10;-should be better on mobile" />
     <MESSAGE value="-changed height from 100vW --&gt; 200vh" />
-    <option name="LAST_COMMIT_MESSAGE" value="-changed height from 100vW --&gt; 200vh" />
+    <MESSAGE value="- height should scale better on mobile phones" />
+    <option name="LAST_COMMIT_MESSAGE" value="- height should scale better on mobile phones" />
   </component>
 </project>
