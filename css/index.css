@@ -1,4 +1,4 @@
-* { margin: 0;  }
+* { margin: 0;   }
 
 html{
     scroll-behavior: smooth;
@@ -9,7 +9,6 @@ a{
 }
 body{
     overflow-x: hidden;
-
     position: relative;
 }
 #rocket{
@@ -179,4 +178,13 @@ body{
     text-shadow: 0 5px 3px rgba(0, 0, 0, 0.7);
     letter-spacing: 1px;
     line-height: 1.4;
+}
+
+@media (max-width: 500px){
+    #me_picture{
+        height: 20vh;
+    }
+    #me_desc{
+        height: 20vh;
+    }
 }
