@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="47d5a210-42a1-442c-9a90-c6f3aa57637a" name="Changes" comment="-Title: The Big Resize&#10;-added @media tags in css to adjust for phones &amp; tablets&#10;-letter spacing to affect readability&#10;-picture scaling to fit the screen&#10;-fixed word wrapping" />
+    <list default="true" id="47d5a210-42a1-442c-9a90-c6f3aa57637a" name="Changes" comment="-undid previous amend" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -95,7 +95,7 @@
       <option name="presentableId" value="Default" />
       <updated>1756923024619</updated>
       <workItem from="1756923026517" duration="18130000" />
-      <workItem from="1756956825505" duration="22741000" />
+      <workItem from="1756956825505" duration="23055000" />
     </task>
     <task id="LOCAL-00001" summary="adding to repository">
       <option name="closed" value="true" />
@@ -217,7 +217,31 @@
       <option name="project" value="LOCAL" />
       <updated>1757277480652</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="-oops pt2">
+      <option name="closed" value="true" />
+      <created>1757277568631</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1757277568631</updated>
+    </task>
+    <task id="LOCAL-00017" summary="-oops pt3">
+      <option name="closed" value="true" />
+      <created>1757277616794</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1757277616794</updated>
+    </task>
+    <task id="LOCAL-00018" summary="-undid previous amend">
+      <option name="closed" value="true" />
+      <created>1757277677498</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1757277677498</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -237,6 +261,9 @@
     <MESSAGE value="-oops" />
     <MESSAGE value="-font size time" />
     <MESSAGE value="-Title: The Big Resize&#10;-added @media tags in css to adjust for phones &amp; tablets&#10;-letter spacing to affect readability&#10;-picture scaling to fit the screen&#10;-fixed word wrapping" />
-    <option name="LAST_COMMIT_MESSAGE" value="-Title: The Big Resize&#10;-added @media tags in css to adjust for phones &amp; tablets&#10;-letter spacing to affect readability&#10;-picture scaling to fit the screen&#10;-fixed word wrapping" />
+    <MESSAGE value="-oops pt2" />
+    <MESSAGE value="-oops pt3" />
+    <MESSAGE value="-undid previous amend" />
+    <option name="LAST_COMMIT_MESSAGE" value="-undid previous amend" />
   </component>
 </project>

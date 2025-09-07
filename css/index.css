@@ -15,7 +15,8 @@ body{
 #rocket{
     width: 7%;
     position: absolute;
-    top: 50%
+    top: 50%;
+    overflow-x:hidden;
 }
 .logo{
     position: absolute;
