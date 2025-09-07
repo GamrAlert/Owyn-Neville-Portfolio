@@ -192,18 +192,18 @@ body{
     }
     #skills{
         gap: 1rem;
-        font-size: 2vw;
+        font-size: 1.75vw;
         word-wrap: break-word;
     }
     #under{
-        font-size: 2vw;
+        font-size: 1.75vw;
     }
     #h_2{
-        font-size: 2vw;
+        font-size: 1.75vw;
     }
     #main_text{
         letter-spacing: 1px;
-        font-size: 2vw;
+        font-size: 1.75vw;
         word-wrap: break-all;
     }
 }
