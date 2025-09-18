@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="47d5a210-42a1-442c-9a90-c6f3aa57637a" name="Changes" comment="-projects bar">
-      <change afterPath="$PROJECT_DIR$/js/scroll.js" afterDir="false" />
+    <list default="true" id="47d5a210-42a1-442c-9a90-c6f3aa57637a" name="Changes" comment="-project button scrolls&#10;-resume button opens resume&#10;-project images and links&#10;-border-radius modifications&#10;-smoothed some minor issues">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +101,9 @@
       <workItem from="1756956825505" duration="25326000" />
       <workItem from="1757289997896" duration="4454000" />
       <workItem from="1757390063345" duration="4419000" />
-      <workItem from="1757981706780" duration="1145000" />
+      <workItem from="1757981706780" duration="1493000" />
+      <workItem from="1757995678165" duration="15000" />
+      <workItem from="1757996196453" duration="18000" />
     </task>
     <task id="LOCAL-00001" summary="adding to repository">
       <option name="closed" value="true" />
@@ -274,7 +273,15 @@
       <option name="project" value="LOCAL" />
       <updated>1757395697811</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="-project button scrolls&#10;-resume button opens resume&#10;-project images and links&#10;-border-radius modifications&#10;-smoothed some minor issues">
+      <option name="closed" value="true" />
+      <created>1757982914496</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1757982914496</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -300,6 +307,7 @@
     <MESSAGE value="-attempt to fix white bar on mobile" />
     <MESSAGE value="-added projects to portfolio&#10;-fixed sizing&#10;-more" />
     <MESSAGE value="-projects bar" />
-    <option name="LAST_COMMIT_MESSAGE" value="-projects bar" />
+    <MESSAGE value="-project button scrolls&#10;-resume button opens resume&#10;-project images and links&#10;-border-radius modifications&#10;-smoothed some minor issues" />
+    <option name="LAST_COMMIT_MESSAGE" value="-project button scrolls&#10;-resume button opens resume&#10;-project images and links&#10;-border-radius modifications&#10;-smoothed some minor issues" />
   </component>
 </project>
