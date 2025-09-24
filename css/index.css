@@ -11,6 +11,7 @@ body{
     overflow-x: hidden;
     position: relative;
     max-width: 100%;
+    flex-wrap: wrap;
 }
 #rocket{
     width: 7%;
@@ -112,6 +113,7 @@ body{
     outline: 1px solid rgba(255,255,255,0.20);
     box-shadow: -1px 1px 5px 9px rgba(255,255,255,0.70);
     z-index: 999;
+    flex-wrap: wrap;
 }
 #me_picture{
     width: 26%;
@@ -304,4 +306,8 @@ body{
     height: 100%;
     width: 100%;
     margin:auto;
+}
+#main_top{
+    display: flex;
+    flex-wrap: wrap;
 }

@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="47d5a210-42a1-442c-9a90-c6f3aa57637a" name="Changes" comment="-project button scrolls&#10;-resume button opens resume&#10;-project images and links&#10;-border-radius modifications&#10;-smoothed some minor issues">
+    <list default="true" id="47d5a210-42a1-442c-9a90-c6f3aa57637a" name="Changes" comment="-new resume">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/index.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,6 +105,9 @@
       <workItem from="1757981706780" duration="1493000" />
       <workItem from="1757995678165" duration="15000" />
       <workItem from="1757996196453" duration="18000" />
+      <workItem from="1758218647999" duration="463000" />
+      <workItem from="1758327909885" duration="157000" />
+      <workItem from="1758328143602" duration="122000" />
     </task>
     <task id="LOCAL-00001" summary="adding to repository">
       <option name="closed" value="true" />
@@ -281,7 +285,15 @@
       <option name="project" value="LOCAL" />
       <updated>1757982914496</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="-new resume">
+      <option name="closed" value="true" />
+      <created>1758218719565</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1758218719565</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -308,6 +320,7 @@
     <MESSAGE value="-added projects to portfolio&#10;-fixed sizing&#10;-more" />
     <MESSAGE value="-projects bar" />
     <MESSAGE value="-project button scrolls&#10;-resume button opens resume&#10;-project images and links&#10;-border-radius modifications&#10;-smoothed some minor issues" />
-    <option name="LAST_COMMIT_MESSAGE" value="-project button scrolls&#10;-resume button opens resume&#10;-project images and links&#10;-border-radius modifications&#10;-smoothed some minor issues" />
+    <MESSAGE value="-new resume" />
+    <option name="LAST_COMMIT_MESSAGE" value="-new resume" />
   </component>
 </project>
