@@ -311,3 +311,6 @@ body{
     display: flex;
     flex-wrap: wrap;
 }
+.text_white{
+    color: white;
+}
