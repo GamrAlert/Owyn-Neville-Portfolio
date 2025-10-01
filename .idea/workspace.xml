@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="47d5a210-42a1-442c-9a90-c6f3aa57637a" name="Changes" comment="-sizing">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/index.css" afterDir="false" />
+    <list default="true" id="47d5a210-42a1-442c-9a90-c6f3aa57637a" name="Changes" comment="-replaced discord bot project&#10;-new project descriptions&#10;-Todo list added">
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -111,7 +109,7 @@
       <workItem from="1758328143602" duration="122000" />
       <workItem from="1758723590878" duration="462000" />
       <workItem from="1758853287008" duration="117000" />
-      <workItem from="1758853610729" duration="316000" />
+      <workItem from="1758853610729" duration="434000" />
     </task>
     <task id="LOCAL-00001" summary="adding to repository">
       <option name="closed" value="true" />
@@ -313,7 +311,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758723943736</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="-replaced discord bot project&#10;-new project descriptions&#10;-Todo list added">
+      <option name="closed" value="true" />
+      <created>1758854001849</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1758854001849</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -342,6 +348,7 @@
     <MESSAGE value="-project button scrolls&#10;-resume button opens resume&#10;-project images and links&#10;-border-radius modifications&#10;-smoothed some minor issues" />
     <MESSAGE value="-new resume" />
     <MESSAGE value="-sizing" />
-    <option name="LAST_COMMIT_MESSAGE" value="-sizing" />
+    <MESSAGE value="-replaced discord bot project&#10;-new project descriptions&#10;-Todo list added" />
+    <option name="LAST_COMMIT_MESSAGE" value="-replaced discord bot project&#10;-new project descriptions&#10;-Todo list added" />
   </component>
 </project>
